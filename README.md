@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/urf6nvuo9cefp3v8?svg=true)](https://ci.appveyor.com/project/SofiaKoVRN/auto-2-rest-1-2)
