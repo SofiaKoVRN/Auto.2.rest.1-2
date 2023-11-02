@@ -1,4 +1,4 @@
-image: Ubuntu2004 # образ для сборки
+image: Windows2010 # образ для сборки
 
 stack: jdk 11  # версия JDK
 
