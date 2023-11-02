@@ -1,4 +1,6 @@
-image: Ubuntu2004 # образ для сборки
+image:
+  - Ubuntu2004 # образ для сборки
+  - Visual Studio 2017
 
 stack: jdk 11  # версия JDK
 
